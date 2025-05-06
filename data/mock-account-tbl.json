@@ -1,0 +1,44 @@
+{
+    "jessie": {
+        "id": "f1f9a21b-3d03-505f-9f32-82fb5eb57479",
+        "fullName": "Jessie Louise Japus Pongos",
+        "hash": "$2b$12$0BAN3cpLh.aB.NVfaWbiKOnSg/YX.v1W1XYgqUUOE41LMHak.kciq",
+        "userLevel": 3,
+        "createdAt": 1745308281
+    },
+    "donamikaela": {
+        "id": "e91a67ed-3c87-5cc4-80bf-d20f3b7a07d0",
+        "fullName": "Donya Mikaela Bayota Varqueza",
+        "hash": "$2b$12$Cbt7iH7vunahTqwveg/VOeqDtduDynj3N..bqT8SG0qnGJG4dN0IK",
+        "userLevel": 2,
+        "createdAt": 1745308360
+    },
+    "einimini": {
+        "id": "ff9abf92-f29f-57c2-b644-b6d3e0a856bf",
+        "fullName": "Eina Rose Sarabia",
+        "hash": "$2b$12$FFjn0Rf0/8yBcbSldTtK8ePhG38MPcph1/YTG0Sq.9tvUQZ/3g6qG",
+        "userLevel": 1,
+        "createdAt": 1745308407
+    },
+    "xypisot": {
+        "id": "20aec54d-0bdd-58cb-a0e5-ea60248b4ef1",
+        "fullName": "Xyryll Jay Taneo",
+        "hash": "$2b$12$yAALXuAhXz9q2hCT3DuQDu/dusrQQ.AxGioygkojIQVYoVqsyRpla",
+        "userLevel": 0,
+        "createdAt": 1745308468
+    },
+    "owepiee": {
+        "id": "4bba7df5-9261-5aa3-a9cd-38b35432fde3",
+        "fullName": "Jessie Louise Pongos",
+        "hash": "$2b$12$bxaHJrGMZlekcigu/sIBFu.DlTXHUOSStYFlI1.btJOs3D52fp6/.",
+        "userLevel": 3,
+        "createdAt": 1746512314
+    },
+    "dohnpisot123": {
+        "id": "cc7ae8b6-2f40-55a3-bbdb-ae93516c73cb",
+        "fullName": "Dohn Varquez",
+        "hash": "$2b$12$afFgMzZcHdN38Qs7ZVoYnOsHRTMmuU6QLx9VO1Nqnq5DUhosbqYIS",
+        "userLevel": 0,
+        "createdAt": 1746512587
+    }
+}
